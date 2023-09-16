@@ -1,4 +1,4 @@
-# Hello, I'm Your Name 👋
+# Hello, I'm Likith 👋
 
 I'm a passionate developer from bangalore. Welcome to my GitHub profile!
 
@@ -11,8 +11,8 @@ I'm a passionate developer from bangalore. Welcome to my GitHub profile!
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/likithsshetty/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue)](https://twitter.com/likithsshetty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Likith-blue)](https://www.linkedin.com/in/likithsshetty/)
+[![Twitter](https://img.shields.io/badge/Twitter-Likith-blue)](https://twitter.com/likithsshetty)
 [![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue)](https://yourwebsite.com/)
 
 ### GitHub Stats
